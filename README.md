@@ -2,4 +2,7 @@
 primeira información añadida  
 
 # Segunda modificación
-incluese unha nova linea  
+inclúese unha nova linea  
+
+# Creación de rama
+crease a rama "rama1"  
